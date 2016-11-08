@@ -1,0 +1,40 @@
+{
+  "name": "none",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp connect",
+    "build": "gulp",
+    "watch": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissoncs/psgfront.git"
+  },
+  "dependencies": {
+    "bitters": "^1.1.1",
+    "bootstrap-sass": "^3.3.7",
+    "bourbon": "^4.2.7",
+    "bxslider": "^4.2.6",
+    "foundation": "^4.2.1-1",
+    "gulp-concat": "^2.6.0",
+    "jquery": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.0.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-pug": "^3.0.3",
+    "gulp-sass": "^2.3.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissoncs/psgfront/issues"
+  },
+  "homepage": "https://github.com/alissoncs/psgfront#readme"
+}
